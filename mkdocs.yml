@@ -8,7 +8,7 @@ extra:
 #-----------------Navigation----------------------------------------
 nav:
     - Home: index.md
-
+    - Quantum Mechanics: qm/index.md
 
 #-----------------THEME---------------------------------------------
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
