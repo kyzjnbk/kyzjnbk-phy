@@ -1,9 +1,6 @@
-# kyzjnbk-template
+# kyzjnbk-phy
 
-科研仔技能百科-模板
-
-你可以从此模板开设新的主题，包括但不限于具体理论方向、摸鱼指南。
-
+general physics
 
 ## 如何贡献？(How to contribute?)
 
